@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpro10&label=Profile%20views&color=0e75b6&style=flat" alt="gitpro10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/israfil_miya_0" target="blank"><img src="https://img.shields.io/twitter/follow/israfil_miya_0?logo=twitter&style=for-the-badge" alt="israfil_miya_0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IsrafilMiya6" target="blank"><img src="https://img.shields.io/twitter/follow/IsrafilMiya6?logo=twitter&style=for-the-badge" alt="IsrafilMiya6" /></a> </p>
 
 <img width="40%" align="right" alt="Github" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
