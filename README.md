@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Israfil Miya Kayes</h1>
-<h3 align="center">A passionate backend web developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpro10&label=Profile%20views&color=0e75b6&style=flat" alt="gitpro10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/israfil_miya_0" target="blank"><img src="https://img.shields.io/twitter/follow/israfil_miya_0?logo=twitter&style=for-the-badge" alt="israfil_miya_0" /></a> </p>
+
+<img width="40%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 I’m currently working on [Price Tracking System](https://github.com/GitPro10/price-tracker)
 
