@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/israfil_miya_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israfil_miya_0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/israfil-miya-kayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israfil-miya-kayes" height="30" width="40" /></a>
+<a href="https://instagram.com/israfil.miya.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israfil.miya.0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
