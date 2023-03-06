@@ -7,7 +7,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🔭 I’m currently working on [Price Tracking System](https://github.com/GitPro10/price-tracker)
+- 🔭 I’m currently working on **[Price Tracking System](https://github.com/GitPro10/price-tracker)**
 
 - 🌱 I’m currently learning **Frontend Designing**
 
