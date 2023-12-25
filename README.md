@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SCHL Web Portal](https://github.com/israfil-miya/schl-online)
 
-- 🌱 I’m currently learning **Figma, Java**
+- 🌱 I’m currently learning **Figma, DevOps, Networking**
 
 - 💬 Ask me about **React, NextJS**
 
