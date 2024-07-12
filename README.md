@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Israfil Miya</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently working on [Autoleet](https://github.com/israfil-miya/autoleet)
+- 🔭 I’m currently working on [POS](https://github.com/israfil-miya/pos-demo)
 
 - 🌱 I’m currently learning **Typescript**
 
