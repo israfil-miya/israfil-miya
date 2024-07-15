@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [POS Software](https://github.com/israfil-miya/kmp-pos)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, AWS**
 
 - 💬 Ask me about **React, NextJS**
 
