@@ -19,5 +19,5 @@
   <a href="https://www.facebook.com/israfil.miya.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="israfil.miya.0" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israfil-miya&layout=compact)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israfil-miya&layout=compact" alt="Top Langs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=israfil-miya&show_icons=true&locale=en" alt="GitHub Stats"/>
