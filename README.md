@@ -1,6 +1,6 @@
 
-  <h1 align="center">Hi, I'm Israfil Miya</h1>
-  <h3 align="center">A software developer from Bangladesh 🇧🇩</h3>
+  <h1 align="center">Hi, I'm Israfil ✨</h1>
+  <h3 align="center">A software engineer from Bangladesh 🇧🇩</h3>
 
 
 - 🔭 I’m currently working on [POS Software](https://github.com/israfil-miya/kmp-pos)
