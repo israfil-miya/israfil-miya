@@ -1,7 +1,12 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 
-  <h1 align="center">Hi, I'm Israfil ✨</h1>
-  <h3 align="center">A software engineer from Bangladesh 🇧🇩</h3>
 
+<h1 align="center">Hi 👋, I'm Israfil Miya</h1>
+<h3 align="center">A software engineer from Bangladesh 🇧🇩</h3>
+
+<img align="right" alt="react" width="250" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil-miya&label=Profile%20views&color=0e75b6&style=flat" alt="israfil-miya" /> </p>
 
 - 🔭 I’m currently working on [POS Software](https://github.com/israfil-miya/kmp-pos)
 
