@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Israfil Miya</h1>
-<h4 align="center">A software engineer from Bangladesh 🇧🇩</h3>
+<p align="center"><b>A software developer from Bangladesh 🇧🇩</b></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil-miya&label=Profile%20views&color=0e75b6&style=flat" alt="israfil-miya" /> </p>
