@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil-miya&label=Profile%20views&color=0e75b6&style=flat" alt="israfil-miya" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israfil-miya&layout=compact" alt="Top Langs"/>
 
-- 🔭 I’m currently working on [Validus (SaaS)](https://github.com/israfil-miya/validus)
+- 🔭 I’m currently working on [eshop-scraper](https://github.com/israfil-miya/eshop-scraper)
 
 - 🌱 I’m currently learning **AWS**
 
