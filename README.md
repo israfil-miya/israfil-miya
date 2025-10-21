@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [eshop-scraper](https://github.com/israfil-miya/eshop-scraper)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React, NextJS**
+- 💬 Ask me about **React, NestJS**
 
 - 📫 How to reach me: **israfilmiya120@gmail.com**
 
