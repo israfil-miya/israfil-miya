@@ -1,13 +1,12 @@
 <h2 align="center">Hi 👋, I'm Israfil Miya</h1>
 <p align="center"><b>A software developer from Bangladesh 🇧🇩</b></p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil-miya&label=Profile%20views&color=0e75b6&style=flat" alt="israfil-miya" /> </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israfil-miya&layout=compact" alt="Top Langs"/>
+<img align="right" width=200 height=200 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ1aDRuMnlrZXJwNDJ5amtlaTZnNnZ1Ynl2OXQwYjV4bWMyNnc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Top Langs"/>
 
-- 🔭 I’m currently working on [eshop-scraper](https://github.com/israfil-miya/eshop-scraper)
+<!-- - 🔭 I’m currently working on []() -->
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **React, NestJS**
 
